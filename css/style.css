@@ -1,0 +1,15 @@
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#dice {
+    cursor: pointer;
+}
+
+#diceImage {
+    width: 150px;
+    height: auto;
+}
